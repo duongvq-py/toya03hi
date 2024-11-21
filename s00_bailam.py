@@ -5,7 +5,7 @@ hi(name)
 
 --- nopbai
 00 fork tu bainopmau tren replit tu trang web duoiday 
-   https://github.com/duongvq-py/toya03hi
+   https://github.com/duongvq-py/toya03hi/blob/main/s00_bailam.py
 
 01 lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
 02a tao github repo, mo kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamourl
